@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+spring-boot-app,com.vz.app.api,TraineeController,20,0,0,0,5,0,4,0,4,0
+spring-boot-app,com.vz.app,SpringBootAppApplication,15,0,0,0,5,0,3,0,3,0
+spring-boot-app,com.vz.app.service,TraineeServiceImpl,20,20,0,0,5,5,4,3,4,3
+spring-boot-app,com.vz.app.model,Trainee,156,22,32,0,3,2,23,6,7,6
